@@ -22,8 +22,8 @@ THEN the saved events persist
 * Created a save button for every event 
 * Added text boxes for upcoming events to customize specifics
 ## Live Link
-https://joshgmurray.github.io/professional-portfolio/
+https://joshgmurray.github.io/work-day-scheduler/
 ## Repo Link
-https://github.com/joshgmurray/professional-portfolio/
+https://github.com/joshgmurray/work-day-scheduler/
 ## Screenshot
-![screenshot](./Assets/Screen%20Shot%202022-08-17%20at%205.18.24%20PM.png)
+![screenshot](./assets/Screen%20Shot%202022-10-14%20at%201.00.17%20PM%20(2).png)
