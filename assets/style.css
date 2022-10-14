@@ -22,6 +22,10 @@ table {
     padding: 0.5rem 1rem;
   }
 
+  tr, td {
+    cursor: pointer;
+  }
+
   th {
     font-weight: normal;
     border-top: thin dotted #ccc;
@@ -43,28 +47,16 @@ table {
   }
 }
 
-.stage-earth {
-  background-color: #ffa726;
-}
-
-.stage-mercury {
-  background-color: #9ccc65;
-}
-
-.stage-venus {
-  background-color: #ff8a65;
-}
-
-.stage-mars {
-  background-color: #b3e5fc;
-}
-
-.stage-jupiter {
-  background-color: #81d4fa;
+.stage-old {
+  background-color: #dbdbdbd7;
 }
 
 .stage-current {
   background-color: #16db41;
+}
+
+.stage-current-hour {
+  background-color: #ff8a65;
 }
 
 .save-button {
