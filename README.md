@@ -26,4 +26,4 @@ https://joshgmurray.github.io/work-day-scheduler/
 ## Repo Link
 https://github.com/joshgmurray/work-day-scheduler/
 ## Screenshot
-![screenshot](./assets/Screen%20Shot%202022-10-14%20at%201.00.17%20PM%20(2).png)
+![screenshot](./assets/Screen%20Shot%202022-10-14%20at%201.00.17%20PM.png)
