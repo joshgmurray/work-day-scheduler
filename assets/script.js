@@ -19,7 +19,7 @@ $(document).ready(function () {
                 middel = "<td id='" + element + "'width='80%' colspan='4' class='stage stage-current-hour'>Current hour</td>"
             }
             if (nowHour > (element.includes("PM") ? parseInt(element) + 12 : parseInt(element))) {
-                middel = "<td id='" + element + "'width='80%' colspan='4' class='stage stage-old'>event that already happend</td>"
+                middel = "<td id='" + element + "'width='80%' colspan='4' class='stage stage-old'>event that already happened</td>"
             }
             str +=
                 "<tr>" +
