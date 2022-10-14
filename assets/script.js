@@ -40,7 +40,9 @@ $(document).ready(function () {
     }, 1000);
 
     $("button").click(function(e) {
-        console.log('button click ===', e.target.name)
+        var selector = '#i' + e.target.name
+        console.log('button click ===', e.target.name, $(selector).val());
+        localStorage.setItem(e.target.name, $(selector).val())
     })
 
     $("th,td.stage").click(function(e) {
